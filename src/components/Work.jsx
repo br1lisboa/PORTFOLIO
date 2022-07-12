@@ -22,10 +22,10 @@ function Work() {
                             E-Commerce whit JS-HTML-CSS
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
+                            <a href="https://br1lisboa.github.io/lisboa_proyect_Ecommerce/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="">
+                            <a href="https://github.com/br1lisboa/lisboa_proyect_Ecommerce" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -39,10 +39,10 @@ function Work() {
                             Cart whit JavaScript
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
+                            <a href="https://br1lisboa.github.io/carrito_eCommerce/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="">
+                            <a href="https://github.com/br1lisboa/carrito_eCommerce" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -56,10 +56,10 @@ function Work() {
                             Calculator whit REACTJS
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
+                            <a href="https://br1lisboa.github.io/react_calculadora-calculator-/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="">
+                            <a href="https://github.com/br1lisboa/react_calculadora-calculator-" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
