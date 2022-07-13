@@ -10,7 +10,7 @@ function NavBar() {
 	const handleClick = () => setNav(!nav);
 
   return (
-    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#1e352f] text-[#EEF5DB]'>
+    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-r from-gray-700 via-gray-900 to-black text-[#EEF5DB]'>
 			<div>
 				{/* <img src={Logo} alt="logo del portfolio de Bruno Lisboa" style={{width: '50px'}}/> */}
 			</div>

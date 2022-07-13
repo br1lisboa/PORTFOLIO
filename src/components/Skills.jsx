@@ -11,7 +11,7 @@ import Node from '../assets/node.png';
 
 function Skills() {
   return (
-    <div name='skills' className='w-full h-screen bg-[#1e352f] text-[#EEF5DB]'>
+    <div name='skills' className='w-full h-screen bg-gradient-to-r from-gray-700 via-gray-900 to-black text-[#EEF5DB]'>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div>
