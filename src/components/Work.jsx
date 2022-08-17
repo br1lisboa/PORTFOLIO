@@ -4,7 +4,8 @@ import EShop from '../assets/eShop.png';
 import Calc from '../assets/calcula.png';
 import Cart from '../assets/carWhitJS.png';
 import Todo from '../assets/todolist.png';
-import ItCrowd from '../assets/ecommerceItCrowd.png'
+import ItCrowd from '../assets/ecommerceItCrowd.png';
+import Encrip from '../assets/encrip.png';
 
 function Work() {
 	return (
@@ -46,6 +47,23 @@ function Work() {
 									<button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF5DB] text-gray-700 font-bold text-lg'>Demo</button>
 								</a>
 								<a href="https://github.com/br1lisboa/coder_ecommerce_reactjs" target="_blank" rel='noreferrer'>
+									<button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF5DB] text-gray-700 font-bold text-lg'>Code</button>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div style={{ backgroundImage: `url(${Encrip})` }}
+						className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+						{/* Hover effects */}
+						<div className='text-center opacity-0 group-hover:opacity-100'>
+							<span className='text-2xl font-bold text-[#EEF5DB] tracking-wider'>
+								Encriptador
+							</span>
+							<div className='pt-8 text-center'>
+								<a href="https://br1lisboa.github.io/encriptador/" target="_blank" rel='noreferrer'>
+									<button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF5DB] text-gray-700 font-bold text-lg'>Demo</button>
+								</a>
+								<a href="https://github.com/br1lisboa/encriptador" target="_blank" rel='noreferrer'>
 									<button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF5DB] text-gray-700 font-bold text-lg'>Code</button>
 								</a>
 							</div>
