@@ -6,6 +6,7 @@ import Cart from '../assets/carWhitJS.png';
 import Todo from '../assets/todolist.png';
 import ItCrowd from '../assets/ecommerceItCrowd.png';
 import Encrip from '../assets/encrip.png';
+import GifCenter from '../assets/gifCenter.png'
 
 function Work() {
 	return (
@@ -18,6 +19,23 @@ function Work() {
 				{/* Container */}
 				<div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
 					{/* Grid item */}
+					<div style={{ backgroundImage: `url(${GifCenter})` }}
+						className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+						{/* Hover effects */}
+						<div className='text-center opacity-0 group-hover:opacity-100'>
+							<span className='text-2xl font-bold text-[#EEF5DB] tracking-wider'>
+								E-Commerce whit React - Express - NodeJS - MongoBD
+							</span>
+							<div className='pt-8 text-center'>
+								<a href="https://gif-center.netlify.app/" target="_blank" rel='noreferrer'>
+									<button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF5DB] text-gray-700 font-bold text-lg'>Demo</button>
+								</a>
+								<a href="https://github.com/br1lisboa/app_buscador_gifs" target="_blank" rel='noreferrer'>
+									<button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF5DB] text-gray-700 font-bold text-lg'>Code</button>
+								</a>
+							</div>
+						</div>
+					</div>
 					<div style={{ backgroundImage: `url(${ItCrowd})` }}
 						className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 						{/* Hover effects */}
