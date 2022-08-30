@@ -10,7 +10,7 @@ import GifCenter from '../assets/gifCenter.png'
 
 function Work() {
 	return (
-		<div name='work' className='w-full md:h-screen text-[#EEF5DB] bg-gradient-to-r from-gray-700 via-gray-900 to-black'>
+		<div name='work' className='w-full h-screen md:h-screen text-[#EEF5DB] bg-gradient-to-r from-gray-700 via-gray-900 to-black pb-11'>
 			<div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
 				<div className='pb-8'>
 					<p className='text-4xl font-bold inline border-b-4 text-[#EEF5DB] border-[#c33c54]'>Work</p>
