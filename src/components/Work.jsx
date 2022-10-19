@@ -4,8 +4,8 @@ import EShop from '../assets/eShop.png';
 import Calc from '../assets/calcula.png';
 import Cart from '../assets/carWhitJS.png';
 import Todo from '../assets/todolist.png';
-import ItCrowd from '../assets/ecommerceItCrowd.png';
-import Encrip from '../assets/encrip.png';
+/* import ItCrowd from '../assets/ecommerceItCrowd.png';
+import Encrip from '../assets/encrip.png'; */
 import GifCenter from '../assets/gifCenter.png'
 
 function Work() {
